@@ -23,7 +23,7 @@ public class Calculator {
 public static void main(String[] args) {
 	Calculator cal = new Calculator();
 	System.out.println(cal.add(4, 4));
-	System.out.println(cal.subtract(4, 3));
+	System.out.println(cal.subtract(5, 3));
 	System.out.println(cal.multiply(3, 4));
 	System.out.println(cal.divide(4, 4));
 }
